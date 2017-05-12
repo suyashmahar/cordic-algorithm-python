@@ -1,0 +1,5 @@
+# Exclude .directory files created by Dolphin
+.directory
+
+# Exclude iPython checkpoints
+.ipynb_checkpoints
