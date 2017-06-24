@@ -5,9 +5,9 @@ All the implementation is within a single jupyter notebook. Implementation is al
 
 Link for [jupyter notebook](cordic_implementation.ipynb)
 
-All the description of the algorithm is within the Jupyter notebook due to no support of LaTeX in markdown.
+All the description of the algorithm is within the Jupyter notebook - reason being no support of LaTeX in markdown.
 # Contribution
 Feel free to [file issues](https://github.com/suyashmahar/cordic-algorithm-python/issues) and submit [pull requests](https://github.com/suyashmahar/cordic-algorithm-python/pulls) – contributions are welcome.
 
 # License
-cordic-implementation-python is licensed under [MIT License](LICENSE.md) 
+cordic-algorithm-python is licensed under [MIT License](LICENSE.md) 
